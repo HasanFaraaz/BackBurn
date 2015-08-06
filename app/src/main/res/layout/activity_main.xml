@@ -32,7 +32,7 @@
         android:text="KenBurn View in The Backgorund"
         android:textStyle="bold"
         android:layout_alignParentRight="true"
-        android:textColor="#FF0000"
+        android:textColor="#ffffff"
         android:layout_alignParentLeft="true" />
     <com.flaviofaria.kenburnsview.KenBurnsView
         android:id="@+id/image"
@@ -54,17 +54,7 @@
 
 
     </LinearLayout>
-    <TextView
-        android:layout_width="wrap_content"
-        android:layout_height="0dp"
-        android:layout_weight="3"
-        android:layout_gravity="center"
-        android:gravity="center"
-        android:textColor="#ffffff"
-        android:paddingLeft="64dp"
-        android:paddingRight="64dp"
-        android:textSize="16sp"
-        android:text="Loooooooooooooooo[...]ooooooooong descreption here"/>
+
     <Button
 
         android:layout_width="fill_parent"

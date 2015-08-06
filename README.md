@@ -1,4 +1,12 @@
 # BackBurn
-Modified KenBurn View so that it can be used as a background
+Modified KenBurn View so that it can be used as a background.
 
-[![Demo BackBurn](http://makeagif.com/Nxdh05)](https://youtu.be/jZvBY1w15Zo)
+Go to this link for ken burns effect https://github.com/flavioarfaria/KenBurnsView
+
+I have made this project such that you can use the kenBurn View as the background.
+
+Currently there is a button(does nothing) and a Label.
+
+
+
+[![Demo BackBurn](https://gifyoutube.com/gif/yXO41W)](https://youtu.be/jZvBY1w15Zo)

@@ -12,3 +12,5 @@ Currently there is a button(does nothing) and a Label.
 Go to **Styles.xml** and edit the **BackGroundImageView** to change the properties of the effect, and do not forget to add kenburn library in gradle script.
 
 To create new styles edit the style field in KenBurn widget and call it there
+
+BackBurn  is available under the Apache license. See the LICENSE file for more info.

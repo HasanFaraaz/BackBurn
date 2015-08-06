@@ -9,4 +9,4 @@ Currently there is a button(does nothing) and a Label.
 
 
 
-[![Demo CountPages alpha](http://share.gifyoutube.com/KzB6Gb.gif)](https://www.youtube.com/watch?v=jZvBY1w15Zo&feature=youtu.be)
+[![Demo CountPages alpha](http://share.gifyoutube.com/yXO41W.gif)](https://www.youtube.com/watch?v=jZvBY1w15Zo&feature=youtu.be)
